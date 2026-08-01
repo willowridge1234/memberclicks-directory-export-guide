@@ -170,3 +170,13 @@ MC Professional is built around individual-based memberships, so its directories
 ## The useful standard
 
 A responsibly collected MemberClicks directory export is not the biggest file you can pull. It's a traceable set of the records that association actually chose to make public, collected without touching anything behind its member login, respecting its own rules, and honest about what it can and can't tell you about intent, timing, or authority. If you need more than that, the association — not a workaround — is the right next step.
+
+## Related
+
+Other free workflows and guides we publish:
+
+- [n8n-ai-lead-scoring](https://github.com/willowridge1234/n8n-ai-lead-scoring) — Free workflow — score scraped leads against your ICP, log to Google Sheets
+- [n8n-review-intent-lead-scoring](https://github.com/willowridge1234/n8n-review-intent-lead-scoring) — Free workflow — score G2/Capterra reviewers by switching intent
+- [n8n-tradeshow-exhibitor-lead-scoring](https://github.com/willowridge1234/n8n-tradeshow-exhibitor-lead-scoring) — Free workflow — score trade-show exhibitors against your ICP
+- [n8n-lead-scoring-guide](https://github.com/willowridge1234/n8n-lead-scoring-guide) — Guide — which signals predict a good lead, and how to tell if scoring works
+- [chamber-association-lead-lists](https://github.com/willowridge1234/chamber-association-lead-lists) — Guide — building B2B lead lists from chamber & association directories
